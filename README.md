@@ -1,3 +1,3 @@
-#EEG tutorial
+# EEG tutorial
 
 Browse other branches.
